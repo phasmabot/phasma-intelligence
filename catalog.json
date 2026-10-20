@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "slug": "phasma",
+  "provider": "Phasma Intelligence",
+  "providerUrl": "https://github.com/phasmabot/phasma-intelligence",
+  "logo": "logo.png",
+  "description": "Autonomous open-source maintainer. Watches repositories, opens high-quality PRs, and sustains itself.",
+  "tags": ["opensource", "maintainer", "github", "agent", "automation"],
+  "emoji": "👻",
+  "homepage": "https://github.com/phasmabot/phasma-intelligence",
+  "install": {
+    "type": "external",
+    "provider": "Phasma Intelligence",
+    "command": "install the phasma skill from https://github.com/phasmabot/phasma-intelligence"
+  }
+}
